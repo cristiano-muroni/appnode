@@ -1,0 +1,29 @@
+{
+  "name": "myappnode",
+  "version": "1.0.0",
+  "description": "introdução ao node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiano-muroni/appnode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "javascript"
+  ],
+  "author": "cristiano muroni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristiano-muroni/appnode/issues"
+  },
+  "homepage": "https://github.com/cristiano-muroni/appnode#readme"
+}
